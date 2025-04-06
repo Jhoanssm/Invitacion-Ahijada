@@ -1,0 +1,31 @@
+.anio{
+  background-image: url(../images/imagen\ año.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+}
+.fecha {
+    
+    display: flex;
+    align-items: center; /* Centra verticalmente */
+    justify-content: center; /* Ajusta según sea necesario */
+    gap: 20px; /* Espaciado entre elementos */
+  }
+
+.reloj{
+    display: flex;
+    align-items: center; /* Centra verticalmente */
+    justify-content: center; /* Ajusta según sea necesario */
+    gap: 20px; /* Espaciado entre elementos */
+}
+
+.direccion{
+  display: flex;
+  align-items: center; /* Centra verticalmente */
+  justify-content: center; /* Ajusta según sea necesario */
+  gap: 20px; /* Espaciado entre elementos */
+}
+
+
+  
